@@ -1,3 +1,8 @@
+# Update
+
+This for uses an updated ssh2 version, to fix the critical npm audit fix: gulp-sftp <=0.0.15 || >=0.1.5 Depends on vulnerable versions of ssh2 node_modules/gulp-sftp
+
+
 # [gulp](http://gulpjs.com)-sftp-up4 [![Build Status](https://travis-ci.org/gtg092x/gulp-sftp.svg?branch=master)](https://travis-ci.org/gtg092x/gulp-sftp)
 
 This is fork of original gulp-sftp with little change which let us to use it with gulp 4.0 version
