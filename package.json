@@ -45,7 +45,7 @@
     "object-assign": "~0.3.1",
     "parents": "~1.0.0",
     "plugin-error": "^2.0.1",
-    "ssh2": "~1.11.0",
+    "ssh2": "~1.15.0",
     "through2": "~0.4.2"
   },
   "devDependencies": {}
